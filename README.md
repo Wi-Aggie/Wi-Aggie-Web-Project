@@ -1,5 +1,5 @@
 # Wi-Aggie-Web-Project
 project 2
-1. The theme I chose for my webpage is my favorite video game series pokemon.
-2. What I learned creating this webpage was how much time can go into making a simple html page. I alos learned how limiting it is to use just html to make a webpage without using any html.
-3. One challenge I faced was planning. I got overwhelmed at times amd also got los but in the en it felt rewarding. Another challenge was finding a background color along with a text color that was accessible. The last was not being able to use css was kind of rough. Having to add color or text sizes to every instance got tedias.
+1. The theme I chose for my webpage is my favorite video game series pokemon. It has been my favorite game to play since I was a kid so I have a bunch of info to talk about.
+2. What I learned creating this webpage was how much time can go into making a simple html page. I also learned how limiting it is to use just html to make a webpage without using any css. Styleing the page became one of the more challenging parts because it needed to be added to every section. It was not just one overall blanket like css.
+3. One challenge I faced was planning. I got overwhelmed at times amd also got lost but in the end it felt rewarding. Another challenge was finding a background color along with a text color that was accessible and not hard to read. The last was not being able to use css was kind of rough. Having to add color or text sizes to every instance got tedious.
