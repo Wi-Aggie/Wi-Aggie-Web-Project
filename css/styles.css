@@ -28,6 +28,7 @@ table{
     margin-right: auto; 
     border: 2px solid gray; 
     text-align: center;
+    color: #ffff00;
 
 }
 
@@ -37,8 +38,17 @@ img{
 
 }
 
+a{
+    color:black;
+}
+
+
 a:hover{
     color: hotpink;
     text-decoration: underline;
 
+}
+
+li{
+    color: #ffff00;
 }
