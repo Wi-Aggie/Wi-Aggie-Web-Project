@@ -68,6 +68,10 @@ ol{
     align-items: center;
 }
 
+form{
+    color: #ffff00;
+}
+
 @media (max-width: 768px){
     .container{
         width: 100%;
