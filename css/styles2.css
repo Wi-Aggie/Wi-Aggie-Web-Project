@@ -2,6 +2,12 @@
 
 body{
     background-color:  #804040;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    text-align: center;
 }
 
 h1{
@@ -10,6 +16,8 @@ h1{
     font-size: 28px;
     color: #ffff00;
 }
+
+
 
 h2{
     padding: 5px;
@@ -34,7 +42,7 @@ table{
 }
 
 img{
-     width: 300px;
+     width: 400px;
      height: 200px;
 
 }
@@ -52,6 +60,12 @@ a:hover{
 
 li{
     color: #ffff00;
+}
+
+ol{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 @media (max-width: 768px){
